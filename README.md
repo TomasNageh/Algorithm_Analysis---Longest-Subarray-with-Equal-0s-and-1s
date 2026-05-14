@@ -1,11 +1,12 @@
 # Algorithm Analysis: Longest Subarray with Equal 0s and 1s
+Task of CS 316 Algorithms Course
+ 
+This Task analyzes algorithms to find the longest contiguous subarray with equal numbers of 0s and 1s in a given binary array.
 
-This project analyzes algorithms to find the longest contiguous subarray with equal numbers of 0s and 1s in a given binary array.
-
-## Project Report
+## Task Report
 
 You can read the detailed analysis and results in the full project report linked below:
 
-[📄 Download the Project Report (PDF)](URL-TO-YOUR-REPORT.PDF)
+[📄 Download the Task Report (PDF)]([📄 Download the Project Report (PDF)](https://github.com/TomasNageh/Algorithm_Analysis---Longest-Subarray-with-Equal-0s-and-1s/raw/main/AlgorithmAnalysis.pdf))
 
 ---
