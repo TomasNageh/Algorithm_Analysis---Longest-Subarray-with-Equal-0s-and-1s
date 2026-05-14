@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1778710668 source:c:\users\user\desktop\ds_codeblocks\algorithm-task\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+
+1778710832 source:c:\users\user\desktop\ds_codeblocks\algorithm-task\recursive.cpp
+	<bits/stdc++.h>
+
+1778710832 source:c:\users\user\desktop\ds_codeblocks\algorithm-task\brute_force.cpp
+	<iostream>
+	<vector>
+
