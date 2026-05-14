@@ -1,6 +1,6 @@
 //program to find longest subarray with equal
 // number of 0's and 1's using Hashmap and Prefix Sum
-/*
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
@@ -45,4 +45,3 @@ int main() {
     cout << maxLenOptimized (arr3) << endl;  // 2
 }
 
-*/
