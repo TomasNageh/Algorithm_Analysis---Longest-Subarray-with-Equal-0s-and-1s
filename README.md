@@ -7,6 +7,6 @@ This Task analyzes algorithms to find the longest contiguous subarray with equal
 
 You can read the detailed analysis and results in the full project report linked below:
 
-[📄 Download the Task Report (PDF)]([📄 Download the Project Report (PDF)](https://github.com/TomasNageh/Algorithm_Analysis---Longest-Subarray-with-Equal-0s-and-1s/raw/main/AlgorithmAnalysis.pdf))
+[📄 Download the Task Report (PDF)]([📄 Download the Project Report (PDF)](https://github.com/TomasNageh/Algorithm_Analysis---Longest-Subarray-with-Equal-0s-and-1s/blob/main/Algorithm_Analysis_Report.pdf))
 
 ---
